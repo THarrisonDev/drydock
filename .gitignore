@@ -1,0 +1,66 @@
+# --- OS / Editors ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.code-workspace
+
+# --- Logs / temp ---
+*.log
+tmp/
+*.tmp
+.cache/
+
+# --- Env / secrets ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# --- Node / web UI ---
+node_modules/
+dist/
+build/
+.next/
+out/
+*.tsbuildinfo
+.npm/
+.pnpm-store/
+
+# --- Go ---
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/bin/
+/vendor/
+
+# --- Python (Archipelago worlds, tooling) ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist-packages/
+
+# --- Rust ---
+target/
+
+# --- Archipelago artifacts (generated locally; never commit seeds) ---
+output/
+Players/
+*.apsrt
+*.apdusklight
+custom_worlds/
