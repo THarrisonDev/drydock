@@ -18,14 +18,6 @@ only then generating a seed. Drydock collapses that into one flow:
 Just getting started. Name and repo created; nothing built yet. This project is built in the
 open — issues, ideas, and PRs are welcome as it takes shape.
 
-## Name
-
-- Product name: **Drydock** — the place a hull is brought to be fitted out with everything it
-  needs before it goes back in the water.
-- Tagline: *Everything you need to play Archipelago, in one place.*
-- "Archipelago" stays out of the product name and lives in the tagline, so the brand can stand
-  on its own and later cover other Archipelago tooling.
-
 ## License
 
 [MIT](LICENSE). Archipelago itself is MIT, so Drydock stays in the same permissive family as the
